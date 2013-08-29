@@ -81,19 +81,19 @@
     <declare-styleable name="Android">
 
         <!-- Text color. -->
-        <attr name="android:textColor" />
+        <attr name="android:textColor">#FFFFFF</attr>
         <!-- Size of the text. Recommended dimension type for text is "sp" for scaled-pixels (example: 15sp). -->
-        <attr name="android:textSize" />
+        <attr name="android:textSize">25sp</attr>
         <!-- Style (bold, italic, bolditalic) for the text. -->
         <attr name="android:textStyle" />
         <!-- Typeface (normal, sans, serif, monospace) for the text. -->
         <attr name="android:typeface" />
         <!-- Color of the text selection highlight. -->
-        <attr name="android:textColorHighlight" />
+        <attr name="android:textColorHighlight">#FFFFFF</attr>
         <!-- Color of the hint text. -->
-        <attr name="android:textColorHint" />
+        <attr name="android:textColorHint">#FFFFFF</attr>
         <!-- Color of the links. -->
-        <attr name="android:textColorLink" />
+        <attr name="android:textColorLink">#FFFFFF</attr>
     </declare-styleable>
 
 </resources>
